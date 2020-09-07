@@ -1,20 +1,6 @@
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-# Blog Template for [Wowchemy Website Builder](https://wowchemy.com)
-
-The **Blog Template** empowers you to create your own *personal blog* or *build a business around your content*.
-
-[Check out the latest demo](https://hugo-blog-starter.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
-
-[**Wowchemy**](https://github.com/wowchemy/wowchemy-hugo-modules/) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs.
-
 My first GitHub Page.
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
 <!--
 [![Screenshot]()](https://github.com/wowchemy/starter-blog)
