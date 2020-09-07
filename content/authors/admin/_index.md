@@ -1,42 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shirley Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Finance Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: DeGroote School of Business, McMaster University
+  url: "https://www.linkedin.com/in/shirley-zhou-9a35a7130/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am OpenToWork now.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Photography
+#- Cooking
+#- Daydream
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: Master in Finance
+#    institution: McMaster University (Canada)
+#    year: 2019-2020
+#  - course: Bachelor in Accounting
+#    institution: Chang'an University (China)
+#    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:tianqizhou9@gmail.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
