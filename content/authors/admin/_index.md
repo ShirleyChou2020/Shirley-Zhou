@@ -16,19 +16,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am OpenToWork now.
 
-#interests:
-#- Photography
-#- Cooking
-#- Daydream
+interests:
+- Photography
+- Cooking
+- Daydream
 
-#education:
-#  courses:
-#  - course: Master in Finance
-#    institution: McMaster University (Canada)
-#    year: 2019-2020
-#  - course: Bachelor in Accounting
-#    institution: Chang'an University (China)
-#    year: 2011-2015
+education:
+  year: 2019-2020
+  - major: Master in Finance
+    institution: McMaster University (Canada)
+  year: 2011-2015
+  - major: Bachelor in Accounting
+    institution: Chang'an University (China)
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,13 +37,11 @@ bio: I am OpenToWork now.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'about/#contact'  # For a direct email link, use "mailto:tianqizhou9@gmail.com".
+- icon: instagram
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.instagram.com/shirleychou_sc/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
