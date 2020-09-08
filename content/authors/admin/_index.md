@@ -60,6 +60,17 @@ social:
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shirley is known for her courage, distinct thoughts and optimism among her friends, ex-colleagues and classmates.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+What she has been up to in recent 5 years:
+· She contributed four years in two “Big Four” companies immediately after completing her bachelor degree of Accounting;
+· She worked in two different departments and acted as different roles like a guider, a driver or a pioneer, during the above four years;
+· With a dream to learn different culture and more knowledge abroad, she chose to apply Canadian schools and restarted her school time in her mid twenties;
+· With another dream to become a love giver, she attended several volunteer groups after arriving Canada, provided with time and assistance as much as possible in both the local communities and schools;
+· She travelled to many places in one year in Canada - to the most northern part to chase the Aurora in the coldest time of the year, to the most French-style state to enjoy and observe the French-style life, as well to several small towns and villages to get close to the nature.
+
+When it comes to work, Shirley is an excellent problem-solver, an excellent communicator and an idea-creator with fast learning skills, strong analytical thinking ability as well as good team work skills.
+When it comes to life, Shirley has her own philosophy.
+
+She believes she still can make big changes of this world regardless of her age, her race and her gender. Please do not hesitate to choose her as your partner.
+
